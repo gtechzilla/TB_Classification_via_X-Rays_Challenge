@@ -1,2 +1,7 @@
 *.zip
 *.csv
+/data
+/test
+/test_small
+/train_small
+/train
